@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-test",
+  "name": "dynamic-turbopack-repro",
   "version": "0.1.0",
   "private": true,
   "scripts": {
